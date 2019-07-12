@@ -1,0 +1,13 @@
+0000.003 () Opened log file at time: Thu, 11 Jul 2019 11:55:42 +0000 on http://localhost/chalets-et-caviar
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 16.7M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 () Free space on disk containing Updraft's temporary directory: 25284 MB
+0000.002 () Opened log file at time: Thu, 11 Jul 2019 11:55:43 +0000 on http://localhost/chalets-et-caviar
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 16M | 4M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 25283.4 MB
+0000.003 () Ensuring WP_Filesystem is setup for a restore
+0000.005 () WP_Filesystem is setup and ready for a restore
+0000.010 () Restore job started. Entities to restore: plugins, themes, uploads, others. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.015 () Error message: Des dossiers existants non supprimés d’une restauration précédente existent (veuillez utiliser le bouton « Supprimer les anciens dossiers » pour les supprimer avant de recommencer) : C:\wamp64\www\chalets-et-caviar/wp-content/updraft/plugins-old
+0000.017 () Restore failed...
+0000.017 () Error message: Des dossiers existants non supprimés d’une restauration précédente existent (veuillez utiliser le bouton « Supprimer les anciens dossiers » pour les supprimer avant de recommencer) : C:\wamp64\www\chalets-et-caviar/wp-content/updraft/plugins-old
+0000.018 () Restore failed

@@ -1,0 +1,24 @@
+/*
+Theme Name: Divi Child
+Template: Divi
+Description: Divi Child Theme
+Author: Astuces Divi
+Author URI: https://astucesdivi.com
+*/
+
+.imgBtnContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.imgBtn{
+    width:33.3333%;
+    max-height:150px;
+    overflow: hidden;
+    padding-right: 5px;
+    cursor:pointer;
+}
+
+
+

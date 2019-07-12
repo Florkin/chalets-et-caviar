@@ -1,0 +1,59 @@
+@import "partials/variables.scss";
+@import "partials/header.scss";
+@import "partials/propertyListingCards.scss";
+
+/*---HOME PAGE---*/
+.et_pb_fullwidth_header{
+    .et_pb_fullwidth_header_subhead {
+        font-weight: 600;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    h1{
+        font-size:40px !important;
+    }
+}
+
+.imgAndTextSection {
+
+    .imgAndTextRow,
+    .sliderAndTextRow {
+        @media screen and (min-width:981px) {
+            display: flex;
+            align-items: center;
+        }
+
+        .et_pb_slider,
+        .et_pb_image_wrap {
+            overflow: hidden;
+            box-shadow: 0 2px 18px rgba(0, 0, 0, 0.3);
+        }
+
+        .et_pb_slider {
+            max-height: 20vw;
+
+            @media screen and (max-width:980px) {
+                max-height: 42vw;
+            }
+        }
+
+        h2 {
+            color: $mainColor;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+    }
+
+    .imgAndTextRow {
+        @media screen and (max-width:981px) {
+            display: flex;
+            flex-direction: column-reverse;
+
+            .et_pb_column {
+                display: flex;
+                justify-content: center;
+                margin-bottom: 30px;
+            }
+        }
+    }
+}

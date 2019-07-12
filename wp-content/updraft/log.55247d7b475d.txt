@@ -1,0 +1,94 @@
+0000.003 () Opened log file at time: Thu, 11 Jul 2019 07:42:07 +0000 on http://localhost/chalets-et-caviar
+0000.004 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.2M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 () Free space on disk containing Updraft's temporary directory: 25431.6 MB
+0000.002 () Opened log file at time: Thu, 11 Jul 2019 07:42:08 +0000 on http://localhost/chalets-et-caviar
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 25431 MB
+0000.003 () Ensuring WP_Filesystem is setup for a restore
+0000.005 () WP_Filesystem is setup and ready for a restore
+0000.009 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.026 () Entity: db
+0000.026 () restore_backup(backup_file=backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-db.gz, type=db, info=a:0:{}, last_one=)
+0000.026 () Décompression de la sauvegarde… (backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-db.gz, 0.1 Mb)
+0000.028 () Database successfully unpacked
+0000.029 () Restauration de la base de données (cela peut prendre du temps si votre site est volumineux - en cas de timeout (ce qui arrive si votre hébergeur limite vos ressources), vous devrez utiliser une autre méthode comme phpMyAdmin…
+0000.029 () Using direct MySQL access; value of use_mysqli is: 1
+0000.053 () Max packet size: 32 MB
+0000.053 () Entering maintenance mode
+0000.053 () Activation du mode maintenance&#8230;
+0000.055 () Backup of: http://localhost/chalets-et-caviar
+0000.056 () Content URL: http://localhost/chalets-et-caviar/wp-content
+0000.056 () Uploads URL: http://localhost/chalets-et-caviar/wp-content/uploads
+0000.057 () Old table prefix: wp_
+0000.057 () Site information: multisite=0
+0000.058 () New table prefix: wp_
+0000.060 () Processing table (MyISAM): wp_options
+0000.093 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0000.099 () Elegant themes theme builder plugin data detected: resetting temporary folder
+0000.102 () Processing table (MyISAM): wp_users
+0000.111 () Processing table (MyISAM): wp_usermeta
+0000.119 () Processing table (MyISAM): wp_commentmeta
+0000.125 () Processing table (MyISAM): wp_comments
+0000.131 () Processing table (MyISAM): wp_links
+0000.138 () Processing table (MyISAM): wp_postmeta
+0000.158 () Processing table (MyISAM): wp_posts
+0000.169 () Processing table (MyISAM): wp_term_relationships
+0000.178 () Processing table (MyISAM): wp_term_taxonomy
+0000.189 () Processing table (MyISAM): wp_termmeta
+0000.196 () Processing table (MyISAM): wp_terms
+0000.203 () Processing table (MyISAM): wp_address_components
+0000.208 () Processing table (MyISAM): wp_fbuilder_fields
+0000.213 () Processing table (MyISAM): wp_fbuilder_fields_order
+0000.224 () Processing table (MyISAM): wp_fbuilder_sections
+0000.229 () Processing table (MyISAM): wp_fbuilder_sections_order
+0000.234 () Database queries processed: 50 in 0.20 seconds
+0000.238 () UpdraftPlus Vault: this site has not been connected - check your settings
+0003.806 () Unlocking database and leaving maintenance mode
+0003.806 () Désactivation du mode maintenance&#8230;
+0003.806 () Finished: lines processed: 53 in 3.77 seconds
+0003.807 () Nettoyage…
+0003.815 () Entity: plugins
+0003.815 () restore_backup(backup_file=backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:50:"C:\wamp64\www\chalets-et-caviar/wp-content/plugins";s:11:"description";s:10:"Extensions";}, last_one=)
+0003.816 () Décompression de la sauvegarde… (backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-plugins.zip, 8.6 MB)
+0003.817 () Unzipping backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-plugins.zip to C:/wamp64/www/chalets-et-caviar/wp-content/upgrade/e74fb132/ using UpdraftPlus_ZipArchive, starting index 0
+0004.527 () Unzip progress: 1002 out of 1887 files (23.3 MB, plugins/updraftplus/vendor/aws/aws-sdk-php/src/Aws/Common/Credentials/Credentials.php)
+0005.205 () Unzip progress: 1887 out of 1887 files (27.2 MB, plugins/updraftplus/vendor/symfony/process/README.md)
+0005.208 () Moving old data: filesystem method / updraft_dir is potentially possible
+0005.209 () Moving old data: can potentially use wp_filesystem method / -old
+0005.209 () Mise de côté des anciennes données…
+0005.574 () Top-level entities being moved: akismet, easy-property-listings, index.php, kirki, updraftplus
+0005.583 () Déplacement de la sauvegarde décompressée…
+0005.915 () Top-level entities being moved: akismet, easy-property-listings, index.php, updraftplus
+0005.934 () Nettoyage…
+0005.937 () Entity: themes
+0005.937 () restore_backup(backup_file=backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-themes.zip, type=themes, info=a:2:{s:4:"path";s:49:"C:\wamp64\www\chalets-et-caviar/wp-content/themes";s:11:"description";s:9:"Thèmes ";}, last_one=)
+0005.938 () Décompression de la sauvegarde… (backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-themes.zip, 10.1 MB)
+0005.939 () Unzipping backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-themes.zip to C:/wamp64/www/chalets-et-caviar/wp-content/upgrade/005451e7/ using UpdraftPlus_ZipArchive, starting index 0
+0006.712 () Unzip progress: 1002 out of 1089 files (31 MB, themes/twentyseventeen/assets/js/html5.js)
+0006.772 () Unzip progress: 1089 out of 1089 files (32.5 MB, themes/twentysixteen/template-parts/content.php)
+0006.772 () PHP event: code E_WARNING: unlink(C:\wamp64\www\chalets-et-caviar/wp-content/updraft/backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-themes.zip): Resource temporarily unavailable (line 785, C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\restorer.php)
+0006.776 () Moving old data: filesystem method / updraft_dir is potentially possible
+0006.776 () Moving old data: can potentially use wp_filesystem method / -old
+0006.776 () Mise de côté des anciennes données…
+0006.995 () Top-level entities being moved: Divi, Divi-child, index.php, real-estate-lite, twentynineteen, twentyseventeen, twentysixteen
+0007.007 () Déplacement de la sauvegarde décompressée…
+0007.328 () Top-level entities being moved: Divi, Divi-child, index.php, twentynineteen, twentyseventeen, twentysixteen
+0007.343 () Nettoyage…
+0007.346 () Entity: uploads
+0007.346 () restore_backup(backup_file=backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:50:"C:\wamp64\www\chalets-et-caviar/wp-content/uploads";s:11:"description";s:18:"Téléversements ";}, last_one=)
+0007.347 () Décompression de la sauvegarde… (backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-uploads.zip, 8.7 MB)
+0007.348 () Unzipping backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-uploads.zip to C:/wamp64/www/chalets-et-caviar/wp-content/upgrade/3b8b43bc/ using UpdraftPlus_ZipArchive, starting index 0
+0007.438 () Unzip progress: 84 out of 84 files (8.7 MB, uploads/2019/07/thumbnail.png)
+0007.440 () Moving old data: filesystem method / updraft_dir is potentially possible
+0007.441 () Moving old data: can potentially use wp_filesystem method / -old
+0007.441 () Mise de côté des anciennes données…
+0007.457 () Déplacement de la sauvegarde décompressée…
+0007.475 () Nettoyage…
+0007.480 () Entity: others
+0007.480 () restore_backup(backup_file=backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-others.zip, type=others, info=a:2:{s:4:"path";s:42:"C:\wamp64\www\chalets-et-caviar/wp-content";s:11:"description";s:7:"Autres ";}, last_one=1)
+0007.480 () Décompression de la sauvegarde… (backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-others.zip, 0.8 MB)
+0007.481 () Unzipping backup_2019-07-11-0928_Chalets_et_Caviar_19409281644e-others.zip to C:/wamp64/www/chalets-et-caviar/wp-content/upgrade/fa1caa66/ using UpdraftPlus_ZipArchive, starting index 0
+0007.522 () Unzip progress: 37 out of 37 files (2.8 MB, languages/themes/twentysixteen-fr_FR.po)
+0007.528 () Nettoyage…
+0007.545 () Restore successful!
+0007.546 () Restore successful

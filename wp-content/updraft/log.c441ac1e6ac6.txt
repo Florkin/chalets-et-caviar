@@ -1,0 +1,801 @@
+0000.002 (0) Opened log file at time: Fri, 12 Jul 2019 07:11:31 +0000 on http://localhost/chalets-et-caviar
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 14M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 25545.8 MB
+0000.010 (0) Deleting old temporary file: log.5bc3ab5cd39b-browser.txt
+0000.012 (0) Deleting old temporary file: log.5ed440713e3f-browser.txt
+0000.013 (0) Deleting old temporary file: log.8f02369e6178-browser.txt
+0000.015 (0) Tasks: Backup files: 1 (schedule: every8hours) Backup DB:  (schedule: every8hours)
+0000.016 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.028 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1562843770, seconds_ago=71721)
+0000.031 (0) Set semaphore last lock (fd) time to 2019-07-12 07:11:31
+0000.031 (0) Semaphore lock (fd) complete
+0000.035 (0) Backup run: resumption=0, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (0s ago), job type=backup
+0000.037 (0) Scheduling a resumption (1) after 300 seconds (1562915791) in case this run gets aborted
+0000.058 (0) Checking if we have a zip executable available
+0000.060 (0) Creation of backups of directories: beginning
+0000.064 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.681 (0) Total entities for the zip file: 250 directories, 1645 files (0 skipped as non-modified), 27.2 MB
+0000.721 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.759 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.798 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.837 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.876 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.878 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.1 MB, 1645 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.614 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 600 files added (on-disk size: 3495.6 KB)
+0001.652 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 700 files added (on-disk size: 3495.6 KB)
+0001.690 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 800 files added (on-disk size: 3495.6 KB)
+0001.729 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 900 files added (on-disk size: 3495.6 KB)
+0001.767 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 1000 files added (on-disk size: 3495.6 KB)
+0001.770 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.1 MB, 1645 files batched, 501 (1002) added so far); re-opening (prior size: 3495.6 KB)
+0003.328 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 1100 files added (on-disk size: 7760.4 KB)
+0003.370 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 1200 files added (on-disk size: 7760.4 KB)
+0003.410 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 1300 files added (on-disk size: 7760.4 KB)
+0003.448 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 1400 files added (on-disk size: 7760.4 KB)
+0003.487 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 1500 files added (on-disk size: 7760.4 KB)
+0003.490 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 1645 files batched, 501 (1503) added so far); re-opening (prior size: 7760.4 KB)
+0003.969 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip.tmp: 1600 files added (on-disk size: 8669 KB)
+0004.202 (0) Created plugins zip (0) - 8836.9 KB in 4.1 s (2138.1 KB/s) (sha1: 41fe7aed925c5899db0e2ed5ea0217f09819c605, sha256: 9bbae0b68fdad7f7d707e955e7d33d660781f708a678e1538cc05190893b7562)
+0004.209 (0) Beginning creation of dump of themes (split every: 400 MB)
+0006.182 (0) Total entities for the zip file: 934 directories, 5130 files (0 skipped as non-modified), 50.5 MB
+0006.222 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.258 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.296 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0006.334 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0006.372 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0006.374 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20.8 MB, 5130 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0008.544 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 600 files added (on-disk size: 6596.5 KB)
+0008.581 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 700 files added (on-disk size: 6596.5 KB)
+0008.622 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 800 files added (on-disk size: 6596.5 KB)
+0008.660 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 900 files added (on-disk size: 6596.5 KB)
+0008.698 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1000 files added (on-disk size: 6596.5 KB)
+0008.700 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.7 MB, 5130 files batched, 501 (1002) added so far); re-opening (prior size: 6596.5 KB)
+0009.624 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1100 files added (on-disk size: 8863.5 KB)
+0009.665 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1200 files added (on-disk size: 8863.5 KB)
+0009.707 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1300 files added (on-disk size: 8863.5 KB)
+0009.744 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1400 files added (on-disk size: 8863.5 KB)
+0009.782 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1500 files added (on-disk size: 8863.5 KB)
+0009.784 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.4 MB, 5130 files batched, 501 (1503) added so far); re-opening (prior size: 8863.5 KB)
+0010.120 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1600 files added (on-disk size: 9483.5 KB)
+0010.209 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1700 files added (on-disk size: 9483.5 KB)
+0010.245 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1800 files added (on-disk size: 9483.5 KB)
+0010.283 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 1900 files added (on-disk size: 9483.5 KB)
+0010.320 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2000 files added (on-disk size: 9483.5 KB)
+0010.323 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.3 MB, 5130 files batched, 501 (2004) added so far); re-opening (prior size: 9483.5 KB)
+0010.789 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2100 files added (on-disk size: 10026.5 KB)
+0010.827 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2200 files added (on-disk size: 10026.5 KB)
+0010.865 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2300 files added (on-disk size: 10026.5 KB)
+0010.905 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2400 files added (on-disk size: 10026.5 KB)
+0010.943 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2500 files added (on-disk size: 10026.5 KB)
+0010.946 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.2 MB, 5130 files batched, 501 (2505) added so far); re-opening (prior size: 10026.5 KB)
+0011.201 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2600 files added (on-disk size: 10196.1 KB)
+0011.239 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2700 files added (on-disk size: 10196.1 KB)
+0011.277 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2800 files added (on-disk size: 10196.1 KB)
+0011.371 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 2900 files added (on-disk size: 10196.1 KB)
+0011.412 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3000 files added (on-disk size: 10196.1 KB)
+0011.416 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1 MB, 5130 files batched, 501 (3006) added so far); re-opening (prior size: 10196.1 KB)
+0011.840 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3100 files added (on-disk size: 10601.5 KB)
+0011.877 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3200 files added (on-disk size: 10601.5 KB)
+0011.915 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3300 files added (on-disk size: 10601.5 KB)
+0011.953 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3400 files added (on-disk size: 10601.5 KB)
+0011.993 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3500 files added (on-disk size: 10601.5 KB)
+0011.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4 MB, 5130 files batched, 501 (3507) added so far); re-opening (prior size: 10601.5 KB)
+0012.650 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3600 files added (on-disk size: 11720.9 KB)
+0012.687 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3700 files added (on-disk size: 11720.9 KB)
+0012.726 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3800 files added (on-disk size: 11720.9 KB)
+0012.765 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 3900 files added (on-disk size: 11720.9 KB)
+0012.803 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4000 files added (on-disk size: 11720.9 KB)
+0012.807 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 MB, 5130 files batched, 501 (4008) added so far); re-opening (prior size: 11720.9 KB)
+0013.672 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4100 files added (on-disk size: 13251.5 KB)
+0013.708 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4200 files added (on-disk size: 13251.5 KB)
+0013.751 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4300 files added (on-disk size: 13251.5 KB)
+0013.790 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4400 files added (on-disk size: 13251.5 KB)
+0013.829 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4500 files added (on-disk size: 13251.5 KB)
+0013.834 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 5130 files batched, 501 (4509) added so far); re-opening (prior size: 13251.5 KB)
+0014.480 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4600 files added (on-disk size: 14118.1 KB)
+0014.522 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4700 files added (on-disk size: 14118.1 KB)
+0014.558 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4800 files added (on-disk size: 14118.1 KB)
+0014.594 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 4900 files added (on-disk size: 14118.1 KB)
+0014.630 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 5000 files added (on-disk size: 14118.1 KB)
+0014.635 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 5130 files batched, 501 (5010) added so far); re-opening (prior size: 14118.1 KB)
+0015.207 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip.tmp: 5100 files added (on-disk size: 15214.7 KB)
+0015.647 (0) Created themes zip (0) - 16847 KB in 11.4 s (1473.5 KB/s) (sha1: b6a296d2a4d423e7606c55328a8dca65027eb658, sha256: 791cc6e48c1cc5d84bd26a4040b8a57dc8358bd5a878c56c8268b9b58654beb1)
+0015.653 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0015.654 (0) Looking for candidates to backup in: C:\wamp64\www\chalets-et-caviar/wp-content/uploads
+0015.655 (0) finding files: 2019: adding to list (1)
+0015.656 (0) finding files: et_temp: adding to list (2)
+0015.657 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0015.747 (0) Total entities for the zip file: 3 directories, 287 files (0 skipped as non-modified), 14.7 MB
+0015.782 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.821 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.422 (0) Created uploads zip (0) - 15087.3 KB in 0.8 s (19830.4 KB/s) (sha1: 44a57bc1d366642878f66949de637e2829de216d, sha256: 9cd85421d1ad963dc75e63a0574270aa951f592fd42554d015ec57f10abeb050)
+0016.428 (0) Beginning backup of other directories found in the content directory (index: 0)
+0016.429 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0016.430 (0) Looking for candidates to backup in: C:\wamp64\www\chalets-et-caviar/wp-content
+0016.431 (0) finding files: cache: skipping: excluded by options
+0016.432 (0) finding files: index.php: adding to list (1)
+0016.433 (0) finding files: index.php-old: adding to list (2)
+0016.434 (0) finding files: index.php-old-old: adding to list (3)
+0016.435 (0) finding files: languages: adding to list (4)
+0016.436 (0) finding files: languages-old: adding to list (5)
+0016.437 (0) finding files: languages-old-old: adding to list (6)
+0016.438 (0) finding files: plugins: skipping: this is the plugins directory
+0016.439 (0) finding files: plugins-old: adding to list (7)
+0016.440 (0) finding files: plugins-old-old: adding to list (8)
+0016.441 (0) finding files: themes: skipping: this is the themes directory
+0016.442 (0) finding files: themes-old: adding to list (9)
+0016.443 (0) finding files: themes-old-old: adding to list (10)
+0016.444 (0) finding files: updraft: skipping: this is the updraft directory
+0016.445 (0) finding files: upgrade: skipping: excluded by options
+0016.446 (0) finding files: uploads: skipping: this is the uploads directory
+0016.447 (0) finding files: uploads-old: adding to list (11)
+0016.448 (0) finding files: uploads-old-old: adding to list (12)
+0016.518 (0) Total entities for the zip file: 15 directories, 102 files (0 skipped as non-modified), 8.3 MB
+0016.556 (0) Zip: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0017.327 (0) Created others zip (0) - 2396.4 KB in 0.9 s (2743.6 KB/s) (sha1: 1fb3e81f36cc1763067bc110a26ecf8ccde848df, sha256: 73d07fc73c6d702ee0c6bba47d5de0a558afd0560f7c5245abeb6ed90540e170)
+0017.335 (0) Saving backup status to database (elements: 8)
+0017.338 (0) Beginning creation of database dump (WordPress DB)
+0017.352 (0) Table wp_options: Total expected rows (approximate): 321
+0017.376 (0) Table wp_options: Total rows added: 313 in 0.02 seconds
+0017.378 (0) Table wp_options: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_options.table.gz - 92.5 KB)
+0017.385 (0) Table wp_users: Total expected rows (approximate): 1
+0017.388 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0017.389 (0) Table wp_users: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_users.table.gz - 0.6 KB)
+0017.395 (0) Table wp_usermeta: Total expected rows (approximate): 28
+0017.398 (0) Table wp_usermeta: Total rows added: 28 in 0.00 seconds
+0017.399 (0) Table wp_usermeta: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_usermeta.table.gz - 1.4 KB)
+0017.407 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0017.409 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0017.410 (0) Table wp_commentmeta: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0017.418 (0) Table wp_comments: Total expected rows (approximate): 1
+0017.421 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0017.422 (0) Table wp_comments: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_comments.table.gz - 0.8 KB)
+0017.429 (0) Table wp_links: Total expected rows (approximate): 0
+0017.432 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0017.433 (0) Table wp_links: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_links.table.gz - 0.4 KB)
+0017.440 (0) Table wp_postmeta: Total expected rows (approximate): 1270
+0017.469 (0) Table wp_postmeta: Total rows added: 1270 in 0.03 seconds
+0017.471 (0) Table wp_postmeta: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_postmeta.table.gz - 15.7 KB)
+0017.478 (0) Table wp_posts: Total expected rows (approximate): 133
+0017.500 (0) Table wp_posts: Total rows added: 133 in 0.02 seconds
+0017.502 (0) Table wp_posts: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_posts.table.gz - 15.1 KB)
+0017.510 (0) Table wp_term_relationships: Total expected rows (approximate): 95
+0017.514 (0) Table wp_term_relationships: Total rows added: 95 in 0.00 seconds
+0017.515 (0) Table wp_term_relationships: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0017.523 (0) Table wp_term_taxonomy: Total expected rows (approximate): 25
+0017.526 (0) Table wp_term_taxonomy: Total rows added: 25 in 0.00 seconds
+0017.527 (0) Table wp_term_taxonomy: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0017.534 (0) Table wp_termmeta: Total expected rows (approximate): 4
+0017.537 (0) Table wp_termmeta: Total rows added: 4 in 0.00 seconds
+0017.538 (0) Table wp_termmeta: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_termmeta.table.gz - 0.4 KB)
+0017.545 (0) Table wp_terms: Total expected rows (approximate): 25
+0017.548 (0) Table wp_terms: Total rows added: 25 in 0.00 seconds
+0017.549 (0) Table wp_terms: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_terms.table.gz - 0.7 KB)
+0017.558 (0) Table wp_address_components: Total expected rows (approximate): 0
+0017.560 (0) Table wp_address_components: Total rows added: 0 in 0.00 seconds
+0017.562 (0) Table wp_address_components: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_address_components.table.gz - 0.3 KB)
+0017.570 (0) Table wp_fbuilder_fields: Total expected rows (approximate): 0
+0017.573 (0) Table wp_fbuilder_fields: Total rows added: 0 in 0.00 seconds
+0017.574 (0) Table wp_fbuilder_fields: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_fields.table.gz - 0.4 KB)
+0017.582 (0) Table wp_fbuilder_fields_order: Total expected rows (approximate): 10
+0017.585 (0) Table wp_fbuilder_fields_order: Total rows added: 10 in 0.00 seconds
+0017.587 (0) Table wp_fbuilder_fields_order: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_fields_order.table.gz - 0.5 KB)
+0017.596 (0) Table wp_fbuilder_sections: Total expected rows (approximate): 0
+0017.598 (0) Table wp_fbuilder_sections: Total rows added: 0 in 0.00 seconds
+0017.600 (0) Table wp_fbuilder_sections: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_sections.table.gz - 0.3 KB)
+0017.608 (0) Table wp_fbuilder_sections_order: Total expected rows (approximate): 0
+0017.611 (0) Table wp_fbuilder_sections_order: Total rows added: 0 in 0.00 seconds
+0017.612 (0) Table wp_fbuilder_sections_order: finishing file (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_sections_order.table.gz - 0.3 KB)
+0017.619 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_options.table.gz (1/17): adding to final database dump
+0017.637 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_users.table.gz (2/17): adding to final database dump
+0017.639 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_usermeta.table.gz (3/17): adding to final database dump
+0017.640 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_commentmeta.table.gz (4/17): adding to final database dump
+0017.642 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_comments.table.gz (5/17): adding to final database dump
+0017.643 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_links.table.gz (6/17): adding to final database dump
+0017.644 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_postmeta.table.gz (7/17): adding to final database dump
+0017.654 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_posts.table.gz (8/17): adding to final database dump
+0017.659 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_term_relationships.table.gz (9/17): adding to final database dump
+0017.661 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_term_taxonomy.table.gz (10/17): adding to final database dump
+0017.663 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_termmeta.table.gz (11/17): adding to final database dump
+0017.664 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_terms.table.gz (12/17): adding to final database dump
+0017.665 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_address_components.table.gz (13/17): adding to final database dump
+0017.666 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_fields.table.gz (14/17): adding to final database dump
+0017.668 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_fields_order.table.gz (15/17): adding to final database dump
+0017.670 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_sections.table.gz (16/17): adding to final database dump
+0017.671 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db-table-wp_fbuilder_sections_order.table.gz (17/17): adding to final database dump
+0017.674 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: finished writing out complete database file (104 KB)
+0017.683 (0) Total database tables backed up: 17 (backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz, size: 130643, sha256)
+0017.691 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0017.692 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0017.693 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0017.694 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+0017.695 (0) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has not yet been successfully uploaded: will queue
+0017.696 (0) Saving backup history. Total backup size: 42.3 MB
+0017.699 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0017.703 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0017.705 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+0020.313 (0) Google Drive: quota usage: used=7677.4 MB, total=15360 MB, available=7682.6 MB
+0020.315 (0) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0080.648 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0080.649 (0) An error condition has occurred for the first time during this job
+0080.939 (0) Google Drive: quota usage: used=7677.4 MB, total=15360 MB, available=7682.6 MB
+0080.941 (0) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0141.267 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0141.853 (0) Google Drive: quota usage: used=7677.4 MB, total=15360 MB, available=7682.6 MB
+0141.854 (0) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0202.159 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0202.436 (0) Google Drive: quota usage: used=7677.4 MB, total=15360 MB, available=7682.6 MB
+0202.437 (0) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0262.737 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0263.012 (0) Google Drive: quota usage: used=7677.4 MB, total=15360 MB, available=7682.6 MB
+0263.015 (0) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0264.702 (0) The scheduled resumption is within 45 seconds - will reschedule
+0264.706 (0) Rescheduling resumption 1: moving to 345 seconds from now (1562916101)
+0264.710 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0264.712 (0) Googledrive chunked upload: 100 % uploaded
+0264.717 (0) Google Drive: OK: Archive backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz uploaded in 1.7 seconds
+0264.718 (0) Recording as successfully uploaded: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz
+0264.722 (0) Deleting local file: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: OK
+0264.725 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0264.727 (0) Number of backup sets in history: 4; groups (db): 1
+0264.729 (0) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+0264.730 (0) This backup set is the backup set just made, so will not be deleted.
+0264.730 (0) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+0264.730 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.732 (0) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+0264.732 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.732 (0) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+0264.732 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.733 (0) Number of backup sets in history: 4; groups (files): 1
+0264.734 (0) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+0264.734 (0) This backup set is the backup set just made, so will not be deleted.
+0264.735 (0) This backup set is the backup set just made, so will not be deleted.
+0264.736 (0) This backup set is the backup set just made, so will not be deleted.
+0264.736 (0) This backup set is the backup set just made, so will not be deleted.
+0264.737 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.738 (0) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+0264.738 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.738 (0) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+0264.738 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.739 (0) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+0264.739 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0264.739 (0) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0264.742 (0) Resume backup (c441ac1e6ac6, 0): finish run
+0264.745 (0) Decremented the semaphore (fd) by 1
+0264.746 (0) Semaphore (fd) unlocked
+0264.747 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0264.750 (0) Rescheduling resumption 1: moving to 100 seconds from now (1562915856)
+0264.752 (0) No email will/can be sent - the user has not configured an email address.
+0264.753 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0364.952 (1) Opened log file at time: Fri, 12 Jul 2019 07:17:36 +0000 on http://localhost/chalets-et-caviar
+0364.954 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0364.955 (1) Free space on disk containing Updraft's temporary directory: 25503.9 MB
+0364.958 (1) Backup run: resumption=1, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (365s ago), job type=backup, previous check-in=264.7s
+0364.960 (1) Scheduling a resumption (2) after 345 seconds (1562916201) in case this run gets aborted
+0364.963 (1) Checking if we have a zip executable available
+0364.964 (1) Creation of backups of directories: already finished
+0364.966 (1) Saving backup status to database (elements: 8)
+0364.970 (1) Database dump (WordPress DB): Creation was completed already
+0364.975 (1) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0364.976 (1) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0364.977 (1) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0364.979 (1) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+0364.980 (1) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+0364.981 (1) Saving backup history. Total backup size: Unknown
+0364.985 (1) Requesting upload of the files that have not yet been successfully uploaded (4)
+0364.987 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0364.989 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+0365.951 (1) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0365.952 (1) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0426.261 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0426.262 (1) An error condition has occurred for the first time during this job
+0426.594 (1) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0426.596 (1) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0486.900 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0487.177 (1) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0487.179 (1) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0547.543 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0547.847 (1) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0547.848 (1) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0608.152 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0608.156 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0608.158 (1) Number of backup sets in history: 4; groups (db): 1
+0608.159 (1) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+0608.160 (1) This backup set is the backup set just made, so will not be deleted.
+0608.160 (1) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+0608.160 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0608.161 (1) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+0608.161 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0608.162 (1) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+0608.162 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0608.162 (1) Number of backup sets in history: 4; groups (files): 1
+0608.163 (1) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+0608.163 (1) This backup set is the backup set just made, so will not be deleted.
+0608.164 (1) This backup set is the backup set just made, so will not be deleted.
+0608.164 (1) This backup set is the backup set just made, so will not be deleted.
+0608.165 (1) This backup set is the backup set just made, so will not be deleted.
+0608.165 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0608.167 (1) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+0608.167 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0608.167 (1) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+0608.167 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0608.167 (1) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+0608.168 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0608.168 (1) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0608.171 (1) Resume backup (c441ac1e6ac6, 1): finish run
+0608.173 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0608.176 (1) No email will/can be sent - the user has not configured an email address.
+0608.177 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0730.624 (2) Opened log file at time: Fri, 12 Jul 2019 07:23:42 +0000 on http://localhost/chalets-et-caviar
+0730.626 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0730.628 (2) Free space on disk containing Updraft's temporary directory: 25503.8 MB
+0730.631 (2) Backup run: resumption=2, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (731s ago), job type=backup
+0730.634 (2) Scheduling a resumption (3) after 345 seconds (1562916567) in case this run gets aborted
+0730.637 (2) Checking if we have a zip executable available
+0730.639 (2) Creation of backups of directories: already finished
+0730.641 (2) Saving backup status to database (elements: 8)
+0730.646 (2) Database dump (WordPress DB): Creation was completed already
+0730.651 (2) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0730.652 (2) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0730.653 (2) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0730.654 (2) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+0730.655 (2) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+0730.656 (2) Saving backup history. Total backup size: Unknown
+0730.659 (2) Requesting upload of the files that have not yet been successfully uploaded (4)
+0730.662 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0730.663 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+0731.781 (2) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0731.783 (2) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0792.068 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0792.069 (2) An error condition has occurred for the first time during this job
+0792.346 (2) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0792.347 (2) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0852.637 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0852.915 (2) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0852.917 (2) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0913.219 (2) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0913.486 (2) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+0913.487 (2) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+0973.778 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0973.782 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0973.784 (2) Number of backup sets in history: 4; groups (db): 1
+0973.785 (2) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+0973.786 (2) This backup set is the backup set just made, so will not be deleted.
+0973.786 (2) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+0973.786 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0973.787 (2) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+0973.788 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0973.788 (2) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+0973.788 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0973.788 (2) Number of backup sets in history: 4; groups (files): 1
+0973.789 (2) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+0973.789 (2) This backup set is the backup set just made, so will not be deleted.
+0973.790 (2) This backup set is the backup set just made, so will not be deleted.
+0973.791 (2) This backup set is the backup set just made, so will not be deleted.
+0973.791 (2) This backup set is the backup set just made, so will not be deleted.
+0973.791 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0973.792 (2) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+0973.792 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0973.793 (2) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+0973.793 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0973.793 (2) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+0973.793 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0973.793 (2) Retain: saving new backup history (sets now: 4) and finishing retain operation
+0973.797 (2) Resume backup (c441ac1e6ac6, 2): finish run
+0973.798 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0973.801 (2) No email will/can be sent - the user has not configured an email address.
+0973.802 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1091.288 (3) Opened log file at time: Fri, 12 Jul 2019 07:29:43 +0000 on http://localhost/chalets-et-caviar
+1091.289 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1091.291 (3) Free space on disk containing Updraft's temporary directory: 25502.7 MB
+1091.293 (3) Backup run: resumption=3, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (1092s ago), job type=backup
+1091.295 (3) Scheduling a resumption (4) after 345 seconds (1562916928) in case this run gets aborted
+1091.298 (3) Checking if we have a zip executable available
+1091.299 (3) Creation of backups of directories: already finished
+1091.301 (3) Saving backup status to database (elements: 8)
+1091.305 (3) Database dump (WordPress DB): Creation was completed already
+1091.310 (3) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1091.312 (3) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1091.313 (3) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1091.315 (3) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+1091.316 (3) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+1091.317 (3) Saving backup history. Total backup size: Unknown
+1091.321 (3) Requesting upload of the files that have not yet been successfully uploaded (4)
+1091.324 (3) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1091.326 (3) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+1092.232 (3) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1092.233 (3) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1152.547 (3) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1152.548 (3) An error condition has occurred for the first time during this job
+1152.822 (3) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1152.823 (3) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1213.113 (3) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1213.383 (3) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1213.384 (3) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1273.664 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1273.991 (3) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1273.993 (3) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1334.294 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1334.297 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+1334.299 (3) Number of backup sets in history: 4; groups (db): 1
+1334.300 (3) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+1334.301 (3) This backup set is the backup set just made, so will not be deleted.
+1334.301 (3) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+1334.301 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1334.302 (3) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+1334.302 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1334.303 (3) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+1334.303 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1334.303 (3) Number of backup sets in history: 4; groups (files): 1
+1334.304 (3) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+1334.304 (3) This backup set is the backup set just made, so will not be deleted.
+1334.305 (3) This backup set is the backup set just made, so will not be deleted.
+1334.305 (3) This backup set is the backup set just made, so will not be deleted.
+1334.306 (3) This backup set is the backup set just made, so will not be deleted.
+1334.306 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1334.307 (3) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+1334.307 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1334.307 (3) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+1334.307 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1334.308 (3) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+1334.308 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1334.308 (3) Retain: saving new backup history (sets now: 4) and finishing retain operation
+1334.312 (3) Resume backup (c441ac1e6ac6, 3): finish run
+1334.313 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1334.315 (3) No email will/can be sent - the user has not configured an email address.
+1334.316 (3) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1445.405 (4) Opened log file at time: Fri, 12 Jul 2019 07:35:37 +0000 on http://localhost/chalets-et-caviar
+1445.406 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1445.407 (4) Free space on disk containing Updraft's temporary directory: 25512.8 MB
+1445.409 (4) Backup run: resumption=4, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (1446s ago), job type=backup
+1445.412 (4) Scheduling a resumption (5) after 345 seconds (1562917282) in case this run gets aborted
+1445.415 (4) Checking if we have a zip executable available
+1445.416 (4) Creation of backups of directories: already finished
+1445.417 (4) Saving backup status to database (elements: 8)
+1445.421 (4) Database dump (WordPress DB): Creation was completed already
+1445.425 (4) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1445.426 (4) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1445.427 (4) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1445.428 (4) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+1445.429 (4) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+1445.430 (4) Saving backup history. Total backup size: Unknown
+1445.434 (4) Requesting upload of the files that have not yet been successfully uploaded (4)
+1445.436 (4) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1445.437 (4) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+1446.357 (4) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1446.359 (4) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1506.676 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1506.678 (4) An error condition has occurred for the first time during this job
+1506.969 (4) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1506.972 (4) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1567.290 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1567.551 (4) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1567.552 (4) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1627.859 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1628.175 (4) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1628.177 (4) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1688.527 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1688.530 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+1688.532 (4) Number of backup sets in history: 4; groups (db): 1
+1688.533 (4) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+1688.534 (4) This backup set is the backup set just made, so will not be deleted.
+1688.534 (4) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+1688.534 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1688.535 (4) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+1688.535 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1688.536 (4) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+1688.536 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1688.536 (4) Number of backup sets in history: 4; groups (files): 1
+1688.537 (4) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+1688.537 (4) This backup set is the backup set just made, so will not be deleted.
+1688.538 (4) This backup set is the backup set just made, so will not be deleted.
+1688.538 (4) This backup set is the backup set just made, so will not be deleted.
+1688.539 (4) This backup set is the backup set just made, so will not be deleted.
+1688.539 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1688.540 (4) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+1688.540 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1688.541 (4) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+1688.541 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1688.541 (4) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+1688.541 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1688.541 (4) Retain: saving new backup history (sets now: 4) and finishing retain operation
+1688.545 (4) Resume backup (c441ac1e6ac6, 4): finish run
+1688.546 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1688.548 (4) No email will/can be sent - the user has not configured an email address.
+1688.549 (4) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1805.375 (5) Opened log file at time: Fri, 12 Jul 2019 07:41:37 +0000 on http://localhost/chalets-et-caviar
+1805.377 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1805.378 (5) Free space on disk containing Updraft's temporary directory: 25499.1 MB
+1805.381 (5) Backup run: resumption=5, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (1806s ago), job type=backup
+1805.383 (5) Scheduling a resumption (6) after 345 seconds (1562917642) in case this run gets aborted
+1805.385 (5) Checking if we have a zip executable available
+1805.387 (5) Creation of backups of directories: already finished
+1805.388 (5) Saving backup status to database (elements: 8)
+1805.393 (5) Database dump (WordPress DB): Creation was completed already
+1805.397 (5) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1805.398 (5) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1805.399 (5) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1805.400 (5) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+1805.401 (5) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+1805.402 (5) Saving backup history. Total backup size: Unknown
+1805.406 (5) Requesting upload of the files that have not yet been successfully uploaded (4)
+1805.408 (5) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1805.410 (5) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+1806.281 (5) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1806.282 (5) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1866.561 (5) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1866.563 (5) An error condition has occurred for the first time during this job
+1866.824 (5) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1866.825 (5) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1927.201 (5) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1927.472 (5) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1927.473 (5) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+1987.766 (5) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1988.050 (5) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+1988.052 (5) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+2048.393 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2048.396 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+2048.398 (5) Number of backup sets in history: 4; groups (db): 1
+2048.399 (5) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+2048.400 (5) This backup set is the backup set just made, so will not be deleted.
+2048.400 (5) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+2048.400 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2048.401 (5) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+2048.401 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2048.402 (5) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+2048.402 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2048.402 (5) Number of backup sets in history: 4; groups (files): 1
+2048.403 (5) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+2048.403 (5) This backup set is the backup set just made, so will not be deleted.
+2048.404 (5) This backup set is the backup set just made, so will not be deleted.
+2048.405 (5) This backup set is the backup set just made, so will not be deleted.
+2048.405 (5) This backup set is the backup set just made, so will not be deleted.
+2048.405 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2048.406 (5) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+2048.406 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2048.407 (5) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+2048.407 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2048.407 (5) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+2048.407 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+2048.407 (5) Retain: saving new backup history (sets now: 4) and finishing retain operation
+2048.410 (5) Resume backup (c441ac1e6ac6, 5): finish run
+2048.411 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2048.414 (5) No email will/can be sent - the user has not configured an email address.
+2048.415 (5) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2171.330 (6) Opened log file at time: Fri, 12 Jul 2019 07:47:43 +0000 on http://localhost/chalets-et-caviar
+2171.332 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2171.333 (6) Free space on disk containing Updraft's temporary directory: 25500.5 MB
+2171.335 (6) Backup run: resumption=6, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (2172s ago), job type=backup
+2171.337 (6) Scheduling a resumption (7) after 345 seconds (1562918008) in case this run gets aborted
+2171.339 (6) Checking if we have a zip executable available
+2171.340 (6) Creation of backups of directories: already finished
+2171.342 (6) Saving backup status to database (elements: 8)
+2171.346 (6) Database dump (WordPress DB): Creation was completed already
+2171.350 (6) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2171.351 (6) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2171.352 (6) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2171.353 (6) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+2171.354 (6) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+2171.355 (6) Saving backup history. Total backup size: Unknown
+2171.358 (6) Requesting upload of the files that have not yet been successfully uploaded (4)
+2171.361 (6) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2171.362 (6) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+2172.142 (6) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+2172.144 (6) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+2232.451 (6) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2232.453 (6) An error condition has occurred for the first time during this job
+2232.700 (6) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+2232.701 (6) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+2293.004 (6) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2293.291 (6) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+2293.292 (6) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+2353.568 (6) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2353.839 (6) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+2353.842 (6) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+2414.151 (6) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2414.154 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+2414.156 (6) Number of backup sets in history: 4; groups (db): 1
+2414.157 (6) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+2414.158 (6) This backup set is the backup set just made, so will not be deleted.
+2414.158 (6) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+2414.158 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2414.159 (6) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+2414.159 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2414.160 (6) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+2414.160 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2414.160 (6) Number of backup sets in history: 4; groups (files): 1
+2414.161 (6) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+2414.161 (6) This backup set is the backup set just made, so will not be deleted.
+2414.162 (6) This backup set is the backup set just made, so will not be deleted.
+2414.163 (6) This backup set is the backup set just made, so will not be deleted.
+2414.163 (6) This backup set is the backup set just made, so will not be deleted.
+2414.163 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2414.164 (6) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+2414.164 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2414.165 (6) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+2414.165 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2414.165 (6) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+2414.165 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2414.166 (6) Retain: saving new backup history (sets now: 4) and finishing retain operation
+2414.169 (6) Resume backup (c441ac1e6ac6, 6): finish run
+2414.170 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2414.173 (6) No email will/can be sent - the user has not configured an email address.
+2414.174 (6) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3937.629 (7) Opened log file at time: Fri, 12 Jul 2019 08:17:09 +0000 on http://localhost/chalets-et-caviar
+3937.631 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+3937.632 (7) Free space on disk containing Updraft's temporary directory: 25491.1 MB
+3937.635 (7) Backup run: resumption=7, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (3938s ago), job type=backup
+3937.636 (7) Long time past since expected resumption time: approx expected=1562918008.3, now=1562919429.6, diff=1421.3
+3937.639 (7) [Warning] Votre site est consulté rarement et UpdraftPlus ne peut récupérer les ressources qu'il recherche; veuillez prendre connaissance de cette page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+3937.642 (7) Scheduling a resumption (8) after 345 seconds (1562919774) in case this run gets aborted
+3937.644 (7) Checking if we have a zip executable available
+3937.645 (7) Creation of backups of directories: already finished
+3937.647 (7) Saving backup status to database (elements: 8)
+3937.651 (7) Database dump (WordPress DB): Creation was completed already
+3937.656 (7) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3937.657 (7) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+3937.658 (7) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3937.659 (7) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+3937.660 (7) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+3937.661 (7) Saving backup history. Total backup size: Unknown
+3937.665 (7) Requesting upload of the files that have not yet been successfully uploaded (4)
+3937.668 (7) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+3937.669 (7) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+3940.193 (7) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+3940.195 (7) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4000.491 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4000.493 (7) An error condition has occurred for the first time during this job
+4000.799 (7) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4000.800 (7) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4061.147 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4061.448 (7) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4061.449 (7) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4121.754 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4122.032 (7) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4122.034 (7) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4182.320 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4182.324 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+4182.325 (7) Number of backup sets in history: 4; groups (db): 1
+4182.327 (7) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+4182.328 (7) This backup set is the backup set just made, so will not be deleted.
+4182.328 (7) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+4182.328 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+4182.329 (7) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+4182.329 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+4182.329 (7) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+4182.329 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+4182.330 (7) Number of backup sets in history: 4; groups (files): 1
+4182.331 (7) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+4182.331 (7) This backup set is the backup set just made, so will not be deleted.
+4182.332 (7) This backup set is the backup set just made, so will not be deleted.
+4182.332 (7) This backup set is the backup set just made, so will not be deleted.
+4182.333 (7) This backup set is the backup set just made, so will not be deleted.
+4182.333 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+4182.334 (7) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+4182.334 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+4182.335 (7) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+4182.335 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+4182.335 (7) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+4182.335 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+4182.335 (7) Retain: saving new backup history (sets now: 4) and finishing retain operation
+4182.339 (7) Resume backup (c441ac1e6ac6, 7): finish run
+4182.341 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+4182.344 (7) No email will/can be sent - the user has not configured an email address.
+4182.345 (7) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+4352.925 (8) Opened log file at time: Fri, 12 Jul 2019 08:24:04 +0000 on http://localhost/chalets-et-caviar
+4352.927 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+4352.928 (8) Free space on disk containing Updraft's temporary directory: 25483.4 MB
+4352.930 (8) Backup run: resumption=8, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (4353s ago), job type=backup
+4352.933 (8) Scheduling a resumption (9) after 345 seconds (1562920189) in case this run gets aborted
+4352.935 (8) Checking if we have a zip executable available
+4352.936 (8) Creation of backups of directories: already finished
+4352.938 (8) Saving backup status to database (elements: 8)
+4352.942 (8) Database dump (WordPress DB): Creation was completed already
+4352.946 (8) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+4352.947 (8) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+4352.948 (8) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+4352.949 (8) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+4352.950 (8) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+4352.951 (8) Saving backup history. Total backup size: Unknown
+4352.955 (8) Requesting upload of the files that have not yet been successfully uploaded (4)
+4352.957 (8) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+4352.959 (8) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+4354.137 (8) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4354.138 (8) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4414.518 (8) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4414.520 (8) An error condition has occurred for the first time during this job
+4414.795 (8) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4414.796 (8) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4475.099 (8) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4475.384 (8) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4475.386 (8) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4535.737 (8) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4536.022 (8) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4536.024 (8) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4596.340 (8) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4596.343 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+4596.345 (8) Number of backup sets in history: 4; groups (db): 1
+4596.346 (8) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+4596.347 (8) This backup set is the backup set just made, so will not be deleted.
+4596.347 (8) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+4596.347 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+4596.348 (8) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+4596.348 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+4596.349 (8) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+4596.349 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+4596.349 (8) Number of backup sets in history: 4; groups (files): 1
+4596.350 (8) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+4596.350 (8) This backup set is the backup set just made, so will not be deleted.
+4596.351 (8) This backup set is the backup set just made, so will not be deleted.
+4596.351 (8) This backup set is the backup set just made, so will not be deleted.
+4596.352 (8) This backup set is the backup set just made, so will not be deleted.
+4596.352 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+4596.353 (8) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+4596.353 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+4596.353 (8) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+4596.354 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+4596.354 (8) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+4596.354 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+4596.354 (8) Retain: saving new backup history (sets now: 4) and finishing retain operation
+4596.358 (8) Resume backup (c441ac1e6ac6, 8): finish run
+4596.360 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+4596.362 (8) No email will/can be sent - the user has not configured an email address.
+4596.363 (8) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+4748.119 (9) Opened log file at time: Fri, 12 Jul 2019 08:30:40 +0000 on http://localhost/chalets-et-caviar
+4748.120 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 5.2.2 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-FDU37QU 10.0 build 18362 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+4748.121 (9) Free space on disk containing Updraft's temporary directory: 25543.7 MB
+4748.124 (9) Backup run: resumption=9, nonce=c441ac1e6ac6, file_nonce=c441ac1e6ac6 begun at=1562915491 (4749s ago), job type=backup
+4748.127 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+4748.129 (9) Scheduling a resumption (10) after 345 seconds (1562920585); but the job will then be aborted unless something happens this time
+4748.132 (9) Creation of backups of directories: already finished
+4748.134 (9) Saving backup status to database (elements: 8)
+4748.138 (9) Database dump (WordPress DB): Creation was completed already
+4748.142 (9) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+4748.143 (9) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+4748.145 (9) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+4748.146 (9) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: others: This file has not yet been successfully uploaded: will queue
+4748.147 (9) backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-db.gz: db: This file has already been successfully uploaded
+4748.148 (9) Saving backup history. Total backup size: Unknown
+4748.151 (9) Requesting upload of the files that have not yet been successfully uploaded (4)
+4748.154 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+4748.155 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-56ea73ffe19ee6dfeeaad879cbd89b25)
+4749.088 (9) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4749.089 (9) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-plugins.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4809.368 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4809.369 (9) An error condition has occurred for the first time during this job
+4809.696 (9) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4809.698 (9) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-themes.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4869.972 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4870.240 (9) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4870.242 (9) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-uploads.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4930.564 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4931.136 (9) Google Drive: quota usage: used=7677.6 MB, total=15360 MB, available=7682.4 MB
+4931.138 (9) Google Drive: backup_2019-07-12-0911_Chalets_et_Caviar_c441ac1e6ac6-others.zip: Attempting to upload to Google Drive (into folder id: 15Mxn_lj21917SM9vF-hnPRMvVIvA_LiI)
+4991.481 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp64\www\chalets-et-caviar\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+4991.485 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+4991.487 (9) Number of backup sets in history: 4; groups (db): 1
+4991.488 (9) Examining (for databases) backup set with group_id=0, nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+4991.489 (9) This backup set is the backup set just made, so will not be deleted.
+4991.489 (9) Examining (for databases) backup set with group_id=0, nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+4991.490 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+4991.491 (9) Examining (for databases) backup set with group_id=0, nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+4991.491 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+4991.491 (9) Examining (for databases) backup set with group_id=0, nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+4991.491 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+4991.492 (9) Number of backup sets in history: 4; groups (files): 1
+4991.493 (9) Examining (for files) backup set with nonce=c441ac1e6ac6, datestamp=1562915491 (Jul 12 2019 07:11:31)
+4991.493 (9) This backup set is the backup set just made, so will not be deleted.
+4991.494 (9) This backup set is the backup set just made, so will not be deleted.
+4991.494 (9) This backup set is the backup set just made, so will not be deleted.
+4991.495 (9) This backup set is the backup set just made, so will not be deleted.
+4991.495 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+4991.496 (9) Examining (for files) backup set with nonce=14d692aa430f, datestamp=1562843770 (Jul 11 2019 11:16:10)
+4991.496 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+4991.497 (9) Examining (for files) backup set with nonce=19409281644e, datestamp=1562830082 (Jul 11 2019 07:28:02)
+4991.497 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+4991.497 (9) Examining (for files) backup set with nonce=7ced0425cae8, datestamp=1562325130 (Jul 05 2019 11:12:10)
+4991.497 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+4991.497 (9) Retain: saving new backup history (sets now: 4) and finishing retain operation
+4991.501 (9) Resume backup (c441ac1e6ac6, 9): finish run
+4991.503 (9) The resumption is being cancelled, as it was only scheduled to enable error reporting, which can be performed now
+4991.505 (9) No email will/can be sent - the user has not configured an email address.
+4991.506 (9) La tentative de sauvegarde est terminée, apparemment sans succès
